@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Timothy1227
+- 👀 I’m interested in Server/Storage
+- 🌱 I’m currently learning Open BMC
+- 💞️ I’m looking to collaborate on Server project
